@@ -1,6 +1,7 @@
 The final version of all code can be found in 'Practical 1_full.ipynb'. You can run it using python 3.
 
-To make this code run correctly, the following files should be placed in the same folder as the notebook: SimLex-999.txt, MEN_dataset_natural_form_full, bow2.words, bow5.words, deps.words, questions-words.txt, and 2000_nouns_sorted.txt
+To make this code run correctly, the following files should be placed in the same folder as the notebook: SimLex-999.txt, MEN_dataset_natural_form_full, bow2.words, bow5.words, deps.words, questions-words.txt, and 2000_nouns_sorted.txt.
+Bokeh should be installed to get the images of the clusters.
 
 Running this whole file will run all of the code discussed in the report, except for the "Word Analogy Task" part, where [MODEL = 'deps'] should be changed to the desired model.
 
