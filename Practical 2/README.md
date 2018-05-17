@@ -12,13 +12,13 @@ All the rest of the files can be generated from code, although it may be helpful
 
 ## References
 
-- Embedding Words as Distributions with a Bayesian Skip-gram Model (2017) - Brazinskas et al. 
+- Embedding Words as Distributions with a Bayesian Skip-gram Model (2017) - Brazinskas et al.  <a href="https://arxiv.org/abs/1711.11027">[pdf]</a>
 
-<a href="http://www.quora.com/Adam-DAngelo">[pdf]</a>
+- Deep Generative Model for Joint Alignment and Word Representation (2018) - Rios et al.  <a href="https://arxiv.org/abs/1802.05883">[pdf]</a>
 
-- Deep Generative Model for Joint Alignment and Word Representation (2018) - Rios et al. 
-- Efficient estimation of word representations in vector space (2013) - Mikolov et al. 
-- word2vec explained: Deriving mikolov et al.'s negative-sampling word-embedding method (2014) Goldberg et al.
+- Efficient Estimation of Word Representations in Vector Space (2013) - Mikolov et al.  <a href="https://arxiv.org/abs/1301.3781">[pdf]</a>
+
+- word2vec explained: Deriving mikolov et al.'s negative-sampling word-embedding method (2014) Goldberg et al.  <a href="https://arxiv.org/abs/1402.3722">[pdf]</a>
 
 
 
